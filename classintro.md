@@ -1,6 +1,6 @@
 # Class Introduction
 
-Open Education Resources, or OERs, is a concept that's capture the imagination of faculty around the world who are looking to either find free and open resources to use with their students, or to contribute their own resources for other faculty to use.
+Open Education Resources, or OERs, is a concept that has captured the imagination of faculty around the world who are looking to either find free and open resources to use with their students, or to contribute their own resources for other faculty to use.
 
 But beyond a general sense of wanting to give students free access to high-quality course material, what does OER mean? Where can resources be found? And where can materials be placed?
 
